@@ -1,4 +1,4 @@
-## Overview
+# Overview
 Parse html and print tree map
 
 ```
@@ -29,12 +29,12 @@ Parse html and print tree map
      └── script
 ```
 
-## Install
+# Install
 ```
 go get github.com/yoheimiyamoto/html-tree
 ```
 
-## Usage
+# Usage
 ```
 go run main.go {URL}
 ```

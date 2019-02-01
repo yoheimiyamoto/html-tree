@@ -28,3 +28,13 @@ Parse html and print tree map
      │              └── p (date)
      └── script
 ```
+
+## Install
+```
+go get github.com/yoheimiyamoto/html-tree
+```
+
+## Usage
+```
+go run main.go {URL}
+```
